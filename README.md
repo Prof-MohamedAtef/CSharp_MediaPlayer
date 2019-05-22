@@ -1,3 +1,3 @@
 # CSharp_MediaPlayer
-Click on the link below to display UserInterface
-https://user-images.githubusercontent.com/16711483/58169374-717b3b80-7c45-11e9-99d3-2a4b919d0b43.png
+![media_player](https://user-images.githubusercontent.com/16711483/58169811-873d3080-7c46-11e9-81a9-dd95d4164120.png)
+
