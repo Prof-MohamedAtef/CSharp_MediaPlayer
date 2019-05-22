@@ -1,0 +1,7 @@
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\bin\Release\loopingsound_Good.exe
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\bin\Release\loopingsound_Good.pdb
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Release\loopingsound_Good.Form1.resources
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Release\loopingsound_Good.Properties.Resources.resources
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Release\loopingsound_Good.csproj.GenerateResource.Cache
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Release\loopingsound_Good.exe
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Release\loopingsound_Good.pdb

@@ -1,0 +1,14 @@
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.Form1.resources
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.exe
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.pdb
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\loopingsound_Good.exe
+c:\users\mohamed\documents\visual studio 2010\Projects\loopingsound_Good\loopingsound_Good\loopingsound_Good.pdb
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.exe
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.pdb
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.Form1.resources
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.Properties.Resources.resources
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\obj\x86\Debug\loopingsound_Good.csproj.GenerateResource.Cache
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\loopingsound_Good.exe
+E:\My Developed Codes\loopingsound_Good\loopingsound_Good\loopingsound_Good.pdb
